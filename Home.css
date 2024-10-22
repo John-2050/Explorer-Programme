@@ -531,7 +531,7 @@
 }
 
 .u-section-3 .u-countdown-1 {
-  animation-timing-function: ease-out;
+  animation-timing-function: ease;
   margin: 6px auto 60px 42px;
   padding: 0 14px;
 }
